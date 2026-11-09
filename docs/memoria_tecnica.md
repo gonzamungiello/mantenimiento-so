@@ -499,14 +499,6 @@ cat logs/informe_recursos.log
 
 ![Control de disco](capturas/disco_ok.png)
 
-**Control de disco (con alerta, umbral bajo)**
-
-![Alerta de disco](capturas/disco_alerta.png)
-
-**Archivos de log**
-
-![Logs](capturas/logs.png)
-
 ---
 
 ## 5. Reflexiones finales
