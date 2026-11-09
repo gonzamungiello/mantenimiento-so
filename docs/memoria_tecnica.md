@@ -2,8 +2,8 @@
 
 **Materia:** Sistemas Operativos
 **Institución:** Instituto Superior IDRA — Tecnicatura Superior en Desarrollo de Software
-**Integrantes:** D'arino Agustin, Zampino Facundo y Mungiello Gonzalo
-**Repositorio:** (https://github.com/gonzamungiello/mantenimiento-so.git)
+**Integrantes:** [COMPLETAR: nombres de los integrantes]
+**Repositorio:** [COMPLETAR: enlace al repositorio de GitHub]
 
 ---
 
@@ -498,6 +498,14 @@ cat logs/informe_recursos.log
 **Control de disco (sin alerta)**
 
 ![Control de disco](capturas/disco_ok.png)
+
+**Control de disco (con alerta, umbral bajo)**
+
+![Alerta de disco](capturas/disco_alerta.png)
+
+**Archivos de log**
+
+![Logs](capturas/logs.png)
 
 ---
 
