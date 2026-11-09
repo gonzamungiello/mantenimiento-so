@@ -2,6 +2,7 @@
 
 Script en Bash con menú interactivo que automatiza tres tareas de mantenimiento en Linux.
 Trabajo Final de Sistemas Operativos — Tecnicatura Superior en Desarrollo de Software, Instituto Superior IDRA.
+
 Integrantes: D'arino Agustin, Zampino Facundo y Mungiello Gonzalo
 
 ## Tareas automatizadas
