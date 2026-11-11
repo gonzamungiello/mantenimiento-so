@@ -2,9 +2,8 @@
 
 **Materia:** Sistemas Operativos
 **Institución:** Instituto Superior IDRA — Tecnicatura Superior en Desarrollo de Software
-**Integrantes:** [COMPLETAR: nombres de los integrantes]
-**Repositorio:** [COMPLETAR: enlace al repositorio de GitHub]
-
+**Integrantes:** D'arino Agustin, Zampino Facundo y Mungiello Gonzalo
+**Repositorio:** (https://github.com/gonzamungiello/mantenimiento-so.git)
 ---
 
 ## Índice
