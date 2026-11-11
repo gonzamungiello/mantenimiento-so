@@ -4,6 +4,7 @@
 **Institución:** Instituto Superior IDRA — Tecnicatura Superior en Desarrollo de Software
 **Integrantes:** D'arino Agustin, Zampino Facundo y Mungiello Gonzalo
 **Repositorio:** (https://github.com/gonzamungiello/mantenimiento-so.git)
+
 ---
 
 ## Índice
@@ -470,6 +471,8 @@ cat logs/informe_recursos.log
 
 ### 4.5 Capturas de pantalla
 
+> **[COMPLETAR]** Reemplazar cada imagen por la captura real tomada en la VM y subir los archivos a la carpeta `docs/capturas/`.
+
 **Menú principal**
 
 ![Menú principal](capturas/menu.png)
@@ -497,6 +500,14 @@ cat logs/informe_recursos.log
 **Control de disco (sin alerta)**
 
 ![Control de disco](capturas/disco_ok.png)
+
+**Control de disco (con alerta, umbral bajo)**
+
+![Alerta de disco](capturas/disco_alerta.png)
+
+**Archivos de log**
+
+![Logs](capturas/logs.png)
 
 ---
 
