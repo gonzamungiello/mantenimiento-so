@@ -471,8 +471,6 @@ cat logs/informe_recursos.log
 
 ### 4.5 Capturas de pantalla
 
-> **[COMPLETAR]** Reemplazar cada imagen por la captura real tomada en la VM y subir los archivos a la carpeta `docs/capturas/`.
-
 **Menú principal**
 
 ![Menú principal](capturas/menu.png)
